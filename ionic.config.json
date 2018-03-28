@@ -1,6 +1,6 @@
 {
   "name": "flames",
-  "app_id": "",
+  "app_id": "3330dd87",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
